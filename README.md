@@ -1,7 +1,7 @@
 # Kaggle - Data Science Bowl 2019
 
 <p align="center">
-  <img width="100%" height="100%" src="https://datasciencebowl.com/wp-content/uploads/2019/03/dsb-logo-400.png">
+  <img width="50%" height="50%" src="https://datasciencebowl.com/wp-content/uploads/2019/03/dsb-logo-400.png">
 </p>
 
 This is the first global competition that I participated with one of my friend. The optimal goal of joining this competition is to learn as much as possible from the Kaggle masters as well as other top-tier data scientists. 
