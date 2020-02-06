@@ -4,7 +4,7 @@
   <img width="50%" height="50%" src="https://datasciencebowl.com/wp-content/uploads/2019/03/dsb-logo-400.png">
 </p>
 
-This is the first global competition that I participated with one of my friend. The optimal goal of joining this competition is to learn as much as possible from the Kaggle masters as well as other top-tier data scientists. 
+This is the first global competition that I participated with one of my friend. The optimal goal of joining this competition is to learn as much as possible from the Kaggle masters as well as other top-tier data scientists. Big kudos to [@Thinh Truong](https://github.com/joey234) for bringing up a lot of novel solutions and informative discussions with me.
 
 The result is more than expected as we learnt a lot from different solutions and discussions, from so many participants. Kaggle has its best way to motivate people to share their knowledge and engage discussions. The competition has 3497 teams, therefore, with only a small change of score can upgrade or downgrade one team's position significantly.
 
